@@ -1,0 +1,16 @@
+{
+    "267": {
+        "storage_type": {
+            "before": "local_storage",
+            "after": "gcs"
+        },
+        "path": {
+            "before": "/nfs/uploads/2019/1/23",
+            "after": "2019/1/23"
+        },
+        "extension": {
+            "before": ".jpg",
+            "after": "jpg"
+        }
+    }
+}
